@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.content_container {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+#questionAnswer:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+#currentQuestion{
+    margin: 5px;
+    font-size: 18px;
+}
